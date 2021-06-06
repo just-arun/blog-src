@@ -2,3 +2,6 @@ baseURL = "https://blog.techguide.dev"
 languageCode = "en-us"
 title = "Techguide"
 theme = "ananke"
+[params]
+author = "Nikola Tesla"
+description = "Tesla's Awesome Hugo Site"
