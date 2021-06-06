@@ -6,3 +6,6 @@
 	path = public
 	url = https://github.com/just-arun/blog
 	branch = main
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
