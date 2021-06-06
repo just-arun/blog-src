@@ -1,7 +1,7 @@
 ---
 title: "String Functions in Javascript"
-description: "this is some serious stuff"
-summary: this is some serious stuff
+description: learn about javascript string class and commonly used methods which will help developer more productive and achieve required functionality
+summary: learn about javascript string class and commonly used methods which will help developer more productive and achieve required functionality
 date: 2021-06-06T22:32:48+05:30
 draft: true
 ---
@@ -16,4 +16,22 @@ let str = "this is a string"
 console.log(str.length)
 // output
 16
+```
+
+## Split
+split helps turn sting to array, it accepts a parameter based on which the string is split
+
+```js
+let str = "this is a string element"
+console.log(str.split(" "))
+// output
+["this", "is", "a", "string", "element"]
+```
+
+## ToLowerCase
+__toLowerCase__ is used to turn all the characters in the string to lowercase
+
+```js
+let str = "This is String"
+console.log(str.toLowerCase())
 ```
