@@ -1,0 +1,8 @@
+[submodule "blog"]
+	path = blog
+	url = https://github.com/just-arun/blog
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/just-arun/blog
+	branch = main
