@@ -1,7 +1,7 @@
 baseURL = "https://blog.techguide.dev"
 languageCode = "en-us"
 title = "Techguide"
-description = ""
+description = "Learn web developement on web with Techguide with progressive reference meterial"
 theme = "ananke"
 googleAnalytics = "G-S5SMDXEQQP"
 
