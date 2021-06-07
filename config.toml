@@ -1,6 +1,8 @@
 baseURL = "https://blog.techguide.dev"
 languageCode = "en-us"
 title = "Techguide"
+description = ""
 theme = "ananke"
 [params]
 author = "Arun"
+googleAnalytics = "G-S5SMDXEQQP"

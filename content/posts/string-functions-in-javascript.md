@@ -35,4 +35,28 @@ __toLowerCase__ is used to turn all the characters in the string to lowercase
 ```js
 let str = "This is String"
 console.log(str.toLowerCase())
+// output
+this is string
 ```
+
+## ToUpperCase
+__toUpperCase__ is used to turn all the characters  in the string to capital case
+```js
+let str = "This is String"
+console.log(str.toUpperCase())
+// output
+THIS IS A STRING
+```
+
+## IndexOf
+__indexOf__ is used to find index of the specified characters in string
+```js
+let str  = "what is the index";
+console.log(str.indexOf("t"))
+// output
+8
+```
+
+
+## CharAt
+__charAt__ is used for finding character using 
