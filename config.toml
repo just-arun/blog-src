@@ -3,6 +3,6 @@ languageCode = "en-us"
 title = "Techguide"
 description = ""
 theme = "ananke"
+googleAnalytics = "G-S5SMDXEQQP"
 [params]
 author = "Arun"
-googleAnalytics = "G-S5SMDXEQQP"
