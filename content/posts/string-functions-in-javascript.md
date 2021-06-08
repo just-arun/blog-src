@@ -54,7 +54,7 @@ __indexOf__ is used to find index of the specified characters in string
 let str  = "what is the index";
 console.log(str.indexOf("t"))
 // output
-// 8
+// 3
 ```
 
 
