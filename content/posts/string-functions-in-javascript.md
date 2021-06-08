@@ -20,7 +20,7 @@ console.log(str.length)
 ```
 
 ## Split
-split helps turn sting to array, it accepts a parameter based on which the string is split
+split helps turn string to array, it accepts a parameter based on which the string is split
 
 ```js
 let str = "this is a string element"
