@@ -2,6 +2,7 @@
 title: "String Functions in Javascript"
 description: learn about javascript string class and commonly used methods which will help developer more productive and achieve required functionality
 summary: learn about javascript string class and commonly used methods which will help developer more productive and achieve required functionality
+tags: ["string", "javascript"]
 date: 2021-06-06T22:32:48+05:30
 author: Arun v
 draft: true

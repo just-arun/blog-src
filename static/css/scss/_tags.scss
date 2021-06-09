@@ -1,0 +1,12 @@
+.cus-tag-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    li {
+        max-width: min-content;
+        margin-right: 4px;
+        a {
+            border-radius: 4px;
+            padding: 4px 8px;
+        }
+    }
+}

@@ -1,12 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: {{ .Description }}
-keywords: {{ .Keywords }}
-summary: {{ .Summary }}
-author: {{ .Author }}
+keywords: "{{ .Site.Params.Keywords }}"
+description: "{{ .Site.Params.Description }}"
+summary: "{{ .Site.Params.Summary }}"
+author: "{{ .Site.Params.author }}"
+tags: {{ .Tags }}
 date: {{ .Date }}
-menus: {{ .Menus }}
-pages: {{ .Pages }}
 draft: true
 ---
 

@@ -2,8 +2,20 @@ baseURL = "https://blog.techguide.dev"
 languageCode = "en-us"
 title = "Techguide"
 theme = "ananke"
+# theme = "hugo-theme-docport"
 googleAnalytics = "G-S5SMDXEQQP"
-
-[params]
 author = "Arun"
 description = "Learn web developement on web with Techguide with progressive reference meterial"
+featured_image = "/img/landing.png"
+
+[params]
+    custom_css = ["css/style.css"]
+    author = "Arun v"
+    description = ""
+    keyboards = [""]
+    summary = ""
+    tags = [""]
+    site_logo = "/img/logo.svg"
+    featured_image = "/img/landing.png"
+    background_color_class = "#e6e6e6"
+    cover_dimming_class = "image-cover-class"

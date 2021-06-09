@@ -1,0 +1,64 @@
+.cus-header {
+  -webkit-box-shadow: 0px 0px 20px #e0e0e0;
+          box-shadow: 0px 0px 20px #e0e0e0;
+  background: #fffbfb;
+}
+
+.cus-time {
+  margin-top: 0px;
+}
+
+.image-cover-class {
+  -webkit-transition: .4s;
+  transition: .4s;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+nav {
+  padding: 0px !important;
+}
+
+.sight-logo {
+  width: 170px;
+}
+
+.cus-bg-class {
+  background-size: 900px auto !important;
+  background-position: center center;
+}
+
+footer {
+  background: #272626;
+  color: #fff;
+}
+
+main {
+  min-height: calc(100vh - 100px);
+  padding-bottom: 0px !important;
+}
+
+.cus-tag-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.cus-tag-wrapper li {
+  max-width: -webkit-min-content;
+  max-width: -moz-min-content;
+  max-width: min-content;
+  margin-right: 4px;
+}
+
+.cus-tag-wrapper li a {
+  border-radius: 4px;
+  padding: 4px 8px;
+}
+
+body {
+  background: green;
+}
+/*# sourceMappingURL=style.css.map */
